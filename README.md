@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Farkade</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">I'm a passionate Software Developer with a strong foundation in the MERN stack and a deep interest in Data Structures and Algorithms. I enjoy building efficient, scalable applications and constantly challenging myself through coding problems. Outside of work, you'll find me exploring the world through trekking and traveling, or recharging with a game of cricket, chess, or a cycling session. Always curious, always learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav1928&label=Profile%20views&color=0e75b6&style=flat" alt="saurav1928" /> </p>
 
